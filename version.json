@@ -1,6 +1,6 @@
 {
  "app": "alshams",
- "version": "2.4.0",
- "download_url": "https://www.dropbox.com/scl/fi/bfimxeg01jhtgceuw8ahe/AlShams-Setup-2.4.0.exe?rlkey=6tqnus84i3h6qwj29hp035jff&st=kfqxf0xl&dl=1",
- "notes": "تعديل الفواتير لفتح صفحة اخرى عند امتلاء الحقول\nسحب ملف اكسل تفصيلي بالمواد\nتعديل التاريخ في الكشوفات والحركات\nاعطاء صلاحيات مخصصة اكثر لمستخدمي النظام\nسعر الصرف مع اشارة بالارتفاع والانخفاض\nاضافة زر تعليق الفاتورة مع التنبيه  لوجود فاتورة معلقة"
+ "version": "2.5.5",
+ "download_url": "https://www.dropbox.com/scl/fi/mf8u0s743acb5s7ul5eti/AlShams-Setup-2.5.5.exe?rlkey=ouhapaiktk9yo0s72cbgpttr3&st=3rnfauym&dl=1",
+ "notes": "اضافة نظام الاقساط\nاصلاح سعر الصرف\nاضافة الاقسام (للعلوة)\nاضافة ميزة تصفير الفواتير اليومية (للعلوة)\nاضافة زر الحاسبة بقائمة بيع الكاشير"
 }
